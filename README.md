@@ -1,4 +1,4 @@
-#  Cloud-Based Intelligent Chatbot  
+#  AWS ChatBot  
 
 This project is a **cloud-enabled intelligent chatbot** developed in Python to handle user queries efficiently using scalable cloud infrastructure. The system leverages AWS services, including **AWS Lambda and Amazon DynamoDB**, to provide high availability, low latency, and reliable performance in a serverless environment.  
 
